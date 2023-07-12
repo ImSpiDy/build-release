@@ -1,0 +1,35 @@
+Sonix Kernel v3.0
+
+# ⚠ Note ⚠
+• If you face any issue please report in support group
+• Sonix Profiles will be added in Next update (v4.0)
+as I need time to adapt it from K4.4 and optimize it
+
+### About Builds
+There are Total 4 type of builds ( + 4 KSU Zips )
+
+• Retro - Use it on Dynamic Partition F2FS/Ext4 ROMs
+• Retro-EroFs - Use it on Dynamic Partition Erofs ROMs
+• Erofs - Use it on Erofs | Normal build for Normal Roms XD
+
+Please flash Correct zip Else Don't complain about bootloop
+
+### Changelogs
+• Upstreamed F2FS from codelinaro
+• power: Force increase charging speed
+• qpnp-smb2: raise weak charge current to 900mA
+• Enable Multi Gen LRU for better Ram Mangement
+• Revert "Force warm reboot" to fix OTG issues
+• mm: vmstat: increase stat interval by 5 times
+• Disable F2FS IO_STAT and CPU_ISOLATE_COOLING
+• promote nodes out of CONFIG_SCHED_DEBUG
+• multi-gen LRU: set min_ttl to 5000ms by default
+• mm: vmscan: Increase vm_swappiness to 80
+• arm64: dts: sdm660-vidc: Fix bad indentation
+• Disable MEDIA_USB_SUPPORT and MSMB_CAMERA_LEGACY
+• configs and block: remove unused I/O schedulers
+• Upstream BFQ and Set it as Default I/O scheduler
+• Updated KSU to Latest Version 11155 (Use v6.2 Apk)
+
+### Credits
+• Thnx @wHo_EM_i for Testing and Upstreaming F2FS
