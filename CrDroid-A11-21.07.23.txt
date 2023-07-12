@@ -1,0 +1,21 @@
+# CrDroid - v7.32 - A11 - 21/07/23
+
+# ⚠ Note ⚠
+• Please Report issues in support group
+
+### Changelogs
+• July 5 Security Patch | CTS pass by default
+• Sepolicy: Silence some GMS denials.
+• Powerhal: Fix Performance Regression
+• Optimize Thermal for better heat manegement
+• Audio: Improve sound quality and loudness
+• Audio: Remove voip_tx profile support
+• Inlined Sonix EAS Kernel X7 | Non KSU
+• lowmemorykiller: tune minfree [2]
+• Overlay: Set SS ChordKey Timeout
+• Overlay: Fix hyper orange night light
+• and Synced with HavocOS A11 changes 
+
+# Credits 
+• Thx @StraightOuttaAkatsuki for Testing 
+• Thx wHo-EM-i and Everyone who helped and supported
