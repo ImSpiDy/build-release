@@ -1,0 +1,49 @@
+Sonix Kernel X7
+
+If you face any issue please report in support group
+
+### Changelogs
+• msm: vidc: reduce max_packets count to 480
+• defconfig: lavender: Disable PROCESS_RECLAIM
+• thermal_core: kill userspace thermal-engine
+• thermal: msm-tsens: remove HZ dependency
+• EXT4 optimizations for better FS performance
+• ext4: Use a larger on-stack file name buffer
+• linux: fs: Align file struct to 8 bytes
+• treewide: remove calls to trace_printk
+• power: supply: smb-lib: Silence logspam
+• qpnp-smb2: raise weak charge current to 900mA
+• tcp: Enable cookieless TFO clients and servers
+• usb: dwc3-msm: Remove indefinite wakeup
+• Delete unnecessary checks before three function calls
+• ReImplement KernelSU Properly (Verison : 11110)
+• added Simple msm Thermal for better heat management
+• Please Don't Install custom thermal as it will not work
+
+### Spectrum Changelog ###
+• Made New module "SonixExtra"
+-- to provide external support to Sonix App 
+• Flash Module in KSU or Magisk ( 23 or above )
+• If you don't wanna install module just use old App
+
+### Module Changelog ###
+• Initial Build
+• Moved Sonix Spectrum App in Module
+• Redesigned App's UI
+• Added 4 new features in App
+1) XCM - 5 Charging Modes (Speed/Temp)
+-- 2800mA/45°C
+-- 2400mA/44°C
+-- 2000mA/43°C
+-- 1600mA/42°C
+-- 1200mA/40°C
+2) RMC - System/Apps Cache Cleaner
+3) DUS - Disable Useless services
+4) K3 - Force Close 3rd party apps
+-- you can add package name of app in SonixLogs/Kill3_Whitelist.txt to prevent 
+it from getting killed with K3 buttons ( get package name from SonixLogs/kill3.log )
+
+### Credits ###
+• Thx @Shagggyyy @GrOoT_7s @LeTsBaKeCaKe 
+@HARDTORELATEBUTEASY @Saymios for Testing
+And Everyone who contributed or supported
