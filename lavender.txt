@@ -1,0 +1,17 @@
+########### Changelog ###########
+
+# Notes
+• Use OrangeFox 11.1 Recovery
+• If you have any issue please tag me in my group
+• I will try to fix it in next month's update or hotfix
+
+# ChangeLogs - 16/12/23 :-
+• Sep Security Patch | CTS pass by default
+• Gphotos Unlimited and Game Unlocker Available
+• Inlined with Sonix EAS X10 Beta | Non-KSU
+• Disable slow blur effect to avoid laggish blur effect
+• lavender: Disable battery hungry services
+• always do printk logging at KERN_WARNING level
+• Build graphics.allocator@3.0 and @4.0
+• Drop QTI datastatusnotification / uceShimService apk
+• Switch to Qti Telephony/ adapt ANT+ for CAF
