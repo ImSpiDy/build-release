@@ -1,0 +1,21 @@
+# CrDroid - v7.33 - A11 - 16/08/23
+
+# ⚠ Note ⚠
+• Please Report issues in support group
+• Zip Size is Increased bcoz of Optimizations
+
+### Changelogs
+• Aug Security Patch | CTS pass by default
+• Fixed Google Photos Unlimited Uploads
+• Fixed System Blur Switch not working
+• Use stop instead of setprop for console
+• Enable R8 optimizations for SystemUi/Server
+• Props: set sys.fw.bservice_enable to false
+• Everything profile services and wifi-service
+• Set Default Dexopt Compiler to everything
+• Inlined Sonix EAS Kernel X7 | Non KSU
+• other fixes and Misc Improvements XD
+
+# Credits 
+• Thx @Lavender_RN7 and @pricexD2 for Testing 
+• Thx wHo-EM-i and Everyone who helped
