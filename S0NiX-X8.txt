@@ -1,0 +1,35 @@
+Sonix Kernel X8
+
+• If you face any issue please report in support group
+• Please Download latest KernelSU app (Version : 0.6.7)
+• Please ignore "-Dirty" word written on kernel Name
+
+### Changelogs
+• Qti-OldCamFix Variants is merged in Qti-OldCam
+• qcacld-3.0: Free a bunch of pkts at once
+• Backport new vmalloc for "large performance benefits
+• Makefile: use -O3 optimization for performance
+• sched: Handle remote wakeups on remote CPUs
+• arm: dts: sdm660-thermal: Improve thermal config
+• block: Prevent init from changing zRam algorithum
+• prlmk: Include basic low-memory-killer functionality
+• defconfig: lavender: Enable MODULES and KPROBES 
+• Update KernelSU Verison to 11212 ( v0.6.7 )
+• Please Don't Install custom thermal as it will not work
+• Compiled Kernel with latest Aosp Clang 17.0.3 
+
+### Module Changelog ###
+• Added Option to Disable Various Logs/ Debugs
+-- Disabled ROM Logs
+-- Disabled GPU Logs
+-- Disabled Kernel Panic/Debugs/Logs
+• Remove Camera service from optimize services
+• Added Option to Optimization DexOpt services
+• Added Extra SonixKernel Tweaks
+-- GPU / VM / Block Tweaks
+• write full name for logs
+
+### Credits ###
+• Thx @Shagggyyy @GrOoT_7s @LeTsBaKeCaKe @Kipasngin
+@HARDTORELATEBUTEASY @Saymios @joynal420520 for Testing
+• Thanks wHoEMi and Everyone who contributed or supported
