@@ -1,0 +1,23 @@
+#---------- CrDroid - v7.35 - A11 - 17/11/23 ---------#
+
+# Notes
+• Use OrangeFox 11.1 Recovery
+
+# ChangeLogs
+• Nov Security Patch | CTS pass by default
+• Gphotos Unlimited and Game Unlocker Available
+• Fixed boot issue ( stuck on splash image )
+• Fix Header Image Padding in Quick Settings
+• Fixed random Gms and apps crashing 
+• Inlined with Sonix EAS X9 Beta | Non-KSU
+
+# Tip :)
+• To make QS panel look better you can set status bar opacity to 0
+I forget to set it by default | location -> 
+Crdroid Settings > Quick Settings > Status Bar opacity
+
+# Credits
+• @Jeff_56 | @Ritikk0011 | @PopEsTaro for Testing
+• EveryOne who Helped me | sdm660 community
+
+Enjoy :)
