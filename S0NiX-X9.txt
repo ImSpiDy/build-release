@@ -1,0 +1,31 @@
+Sonix Kernel X9 - 27/11/23
+
+# Notes
+• Added Support for Android 14
+• Fixed app crashing on lineage based roms
+• If you face any issue please report in support group
+
+### Changelogs
+• Micro-optimize PID map reads for arm64
+• sched/fair: Use balanced sched latencies
+• Don't check for uncommitted changes ( no more -dirty )
+• drivers: thermal: limits-dcvs: Always build driver
+• Revert "mm: backport speculative page fault"
+• Revert "Backport new vmalloc for "large performance benefits""
+• defconfig: lavender: Re-Enable WQ_POWER_EFFICIENT
+• workqueue: Affine unbound workqueues to little CPUs
+• Enable DCTCP Algorithm & Disable THERMAL_LIMITS_DCVS
+• msm: mdss: Remove partial update region delays
+• Updated KernelSU version to 11376 ( v0.7.1 )
+• mm: prlmk: increase pressure_max to 99%
+• sched/core: decrease nr_migrate from 128 to 96
+• haptics: added vibration control for qti driver
+• Compiled Kernel with Latest Neutron clang 18.0.0
+
+# Module
+• Will update it later with 4.19 Kernel
+
+### Credits
+• Thnx @Shagggyyy @GrOoT_7s @LeTsBaKeCaKe @MrVendettaJA @Jeff_56 @rizvi0606 @Ritikk0011 @Lavender_RN7 @bikal_bst @Ads0201 @PopEsTaro for Testing
+• Thanks wHoEMi and Everyone who contributed or supported
+• Thanks alot to every developer whose commits i kanged :)
