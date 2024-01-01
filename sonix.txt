@@ -1,0 +1,32 @@
+### Sonix Kernel ###
+
+# Changelogs X10 - 01/01/24
+------------------------------------------------------
+• Added Support For RetroFit Dynamic Partitions (-RDP-)
+• Updated kernel SU to latest version
+• Revert "nvt_touch_f7a: Handle input work directly in the IRQ handler"
+  ( Fixes Black Screen issue after phone call )
+• fixup! fs: proc: faster /proc/cmdline
+• init: Add CONFIG_INITRAMFS_IGNORE_SKIP_FLAG
+• Revert "devfreq_boost: adjust energy aware only on game mode"
+• Revert "devfreq_boost: Disable energy aware when kick max boost"
+• Revert "configs: lavender: Enable SCHED_STACK_END_CHECK"
+• lazy to write .....
+
+# Spectrum App 
+• New Material theme Ui | Thanks @DrDisagree
+• Splited Charging Control - Speed/Temperature 
+• Added Sound Control - Ear,Mic,Speaker,Headphone Gain
+• Added Extreme Battery Saver works only when Battery mode is Enabled
+• Added Minimal Support for Sonix 4.19 Kernel
+• sched/tune: bump 3x TA boost on game mode
+• If App doesn't appear, install it manually from zip file
+--------------------------------------------------------------------------
+
+### Credits
+• Thnx @DrDisagree for Redesigning and Optimizing Sonix App
+• Thnx @Shagggyyy @GrOoT_7s @LeTsBaKeCaKe @Alone_131 
+@MrVendettaJA @Jeff_56 @rizvi0606 @Ritikk0011 @Ads0201
+@bikal_bst @Lavender_RN7 @PopEsTaro for Testing
+• Thanks wHoEMi and Everyone who contributed or supported
+• Thanks alot to every developer whose commits i kanged :)
