@@ -1,0 +1,32 @@
+########### Device Changelog ###########
+
+# ⚠ Note ⚠
+• If you have any issue please tag me in my group
+• I will try to fix it in next month's update or hotfix
+• ROM works fine on 3gb ram dont judge it by size
+• Use Latest Gcam, if Older Versions are crashing
+
+# Device Changelog - 04/12/23 :-
+• fstab: Drop AvB completely
+• update libstdc++ for Android U
+• Stop shipping 32-bit Zygote
+• Treat retrofit devices as launching
+• update partition size for Android U
+• Switch default display color mode to Saturated
+• remove vendor.qti.gnss 1.2, 2.0 from manifest
+• kernel: Panic to recovery, not bootloader
+• Switch to Wifi service AIDL
+• Build android.frameworks.sensorservice@1.0.vendor
+• Disable sparse image build on all type of fs
+• powerhint: Nuke GPUIdleTimer
+• Setup permission for powerHAL
+• Remove cpuset foreground boost
+• compatibility_matrix: update target level to 4
+• fingerprint: use libhidlbase-v32 for goodix
+• Enable Optimized Power Management
+• Rename property to disable MTE in system_server
+• prop: Enable apk fs-verity
+• Use FUSE passthrough mode by default
+• fine tune performance.xml
+• gps: Fix misleading indentation
+• Ship with prebuilt libprotobuf-cpp-*-3.9.1
