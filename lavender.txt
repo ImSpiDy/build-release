@@ -5,7 +5,24 @@
 • If you have any issue please tag me in my group
 • I will try to fix it in next month's update or hotfix
 
-# ChangeLogs - 16/12/23 :-
+# Device ChangeLogs - 11/01/24 :-
+• Nov Security Patch | CTS pass by Default
+• nuke PRODUCT_CHARACTERISTICS=nosdcard
+• sepolicy: fix denials for kcal
+
+# xDroid Source Changelogs :
+• Switch to jemalloc memory allocator
+• Update spoof fingerprint to fix CTS
+• Reduce log verbosity: Don't spam logcat
+• aapt: Default to 0 compression ratio
+• core: Remove default aspect ratio limit for old apps
+• Allow faster app switching | Improve scrolling cache
+• SystemUI: allow blur even when GFX acceleration is disabled
+• 69 other changes but I am lazy asf to write
+
+---------------------------------------------------------------
+
+# Device ChangeLogs - 16/12/23 :-
 • Sep Security Patch | CTS pass by default
 • Gphotos Unlimited and Game Unlocker Available
 • Inlined with Sonix EAS X10 Beta | Non-KSU
