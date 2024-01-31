@@ -1,18 +1,26 @@
-# How to use or select Sonix profile
+### Note 
+# ------------------------------------------------- #
+• Version Above X3 Supports Linux 4.19 Kernel
 
+### How to use or select Sonix profile
+# ------------------------------------------------- #
 # Rooted
-• Just use Sonix Spectrum app
-• Or Install Sonix-Spectrum Module
-• Module Supports KSU and Magisk
+• Install Sonix-Spectrum Module
+it will install Sonix Spectrum app 
+automatically after rebooting device
+• Module can be flashed in KSU or Magisk
 
 # Non-Rooted
 • Add "-k1" , "-k2" , "-k3" in zip name
 
+Example :-
 K1 - S0NiX-EAS-X2-K1-OldCam.zip - Battery
 Or 
 K2 - S0NiX-EAS-X2-K2-OldCam.zip - Efficient
 Or
 K3 - S0NiX-EAS-X2-K3-OldCam.zip - Gaming
 
-# Warning
-• Battery will drain fast on gaming mode so it isn't recommended to use it on non rooted device  
+### Warning
+# ------------------------------------------------- #
+• Battery will drain fast on gaming mode so
+it isn't recommended to use it on non rooted device  
