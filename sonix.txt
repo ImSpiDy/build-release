@@ -1,5 +1,22 @@
 ### Sonix Kernel ###
 
+
+# Changelogs X10.1 - 05/02/24
+------------------------------------------------------
+• defconfig: Spoof Kernel as Stock Meme Kernel
+• kernel/sys.c: implement custom uname override
+• bpf: fix unused label 'free_map_nouncharge'
+• treewide: remove various unused variables
+• sound: wcd_cpe: Fix enum-conversion warnings
+• makefile: disable warning: mixing declarations
+• usb: implicit truncation from 'int' to a one-bit wide
+• usb: f_accessory: Remove useless non-debug prints
+• icnss: Fix enum-conversion warning from Clang
+• ipa_v2: Fix error implicit conversion from enum type
+• thermal_core: kill userspace thermal properly
+• kernelsu: add new functions to ksu_hook
+• Compile Kernel with latest Zyc Clang 19.0.0
+
 # Changelogs X10 - 01/01/24
 ------------------------------------------------------
 • Added Support For RetroFit Dynamic Partitions (-RDP-)
