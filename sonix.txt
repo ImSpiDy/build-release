@@ -42,8 +42,10 @@
 
 ### Credits
 • Thnx @DrDisagree for Redesigning and Optimizing Sonix App
-• Thnx @Shagggyyy @GrOoT_7s @LeTsBaKeCaKe @Alone_131 
+• Thnx @Shagggyyy @GrOoT_7s @LeTsBaKeCaKe @Alone_131
 @MrVendettaJA @Jeff_56 @rizvi0606 @Ritikk0011 @Ads0201
 @bikal_bst @Lavender_RN7 @PopEsTaro for Testing
 • Thanks wHoEMi and Everyone who contributed or supported
 • Thanks alot to every developer whose commits i kanged :)
+
+* Special mention to one and only pro gwad tester @MrVendettaJA*
