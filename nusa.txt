@@ -1,0 +1,67 @@
+# Nusantara - A10
+
+### Note
+• Use Orangefox Recovery 11.0_1 or below
+• It will not convert you lavender into iphone
+• Dont Expect way too much from this rom
+• If you face any issue please report in group
+• I might give one more update with bug fixes
+• Happy Flashing and R.I.P Android 10
+
+### Changelogs - 13/02/24
+Source:
+• Add Ignore window secure flags
+• Introduce Custom Statusbar Signal & Wi-Fi icons
+• BluetoothAdapter: disable logspew
+• Add more Landscape Battery Styles
+• Enable O3 optimization at various place
+• dimens: add toggle to switch qs thin padding
+• Nad: add User toggle for PlayIntegrityFix
+• Switch to google bootanimation
+
+Device:
+• Only Vanilla Available | use minimal Gapps
+• SafetyNet and PlayIntegrity passes by default
+• Kernel - Sonix EAS X10.1 Oldcam | NonKSU
+• Increase rounded_corner_content_padding
+• overlay: reduce animation & transition scale
+• overlay: Disable intrusive gms components
+• Nuke SF client composition cache
+• overlay: Disable antifalsing on dialer
+• Add freefrom Multiwindow managment
+• Update display config to version 1.9
+• Eanble sys.fw.bservice_enable again
+• sepolicy: Resolve vold boot denial
+• Synced changes from previous builds
+• various other fixes and improvements
+
+### Changelogs - 18/07/23
+• Build - Gapps (918mb) | Vanilla (840mb)
+• Gapps - Lawnchair | Vanilla - Nusa launcher
+• June 5 Security Patch | CTS pass by default
+• Rebased Device Tree completely
+• powerhal: Fix Performance Regression
+• Reduce Side padding on Quick Settings
+• Optimize Thermal for better heat manegement
+• Added HDR + Extreme Unlocker for BGMI
+• sepolicy: Resolve vold boot denial
+• XiaomiParts: increase sound gain
+• XiaomiParts: Add Earpiece Gain
+• update blobs from Miui V12.5.3.0
+• Remove display offset properties
+• Enable ro.vendor.perf.scroll_opt
+• Added some rendering properties
+• Overlay: Allow more cached apps in bg
+• Audio: Improve sound quality and loudness
+• Audio: Remove voip_tx profile support
+• rootdir: remove obsolete HMP tunables
+• Disable EGL buffer_age ext support
+• Drop data-ipa-cfg-mgr completely
+• Inlined Sonix EAS Kernel X7
+• lowmemorykiller: tune minfree [2]
+• overlay: Fix hyper orange night light
+• sepolicy: fix sound control denials
+• and some Fixes and Improvements XD
+
+# Credits
+• Thx Everyone who tested and supported
