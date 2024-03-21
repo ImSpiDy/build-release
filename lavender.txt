@@ -6,6 +6,12 @@
 • Use Latest Gcam, if Older Versions are crashing
 • Use Minimal Gapps for Vanilla Builds like Nik Core
 
+# Device Changelog - 21/03/24 :
+• Disable frame rate override feature
+• Enable SurfaceFlinger Cache by default
+• dexopt: optimize compiler filter
+• dexopt: nuke duplicate compiler filter
+
 # Device Changelog - 14/01/24 :
 • Add touch improvements sysprops
 • Register health.IChargingControl
