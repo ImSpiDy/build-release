@@ -5,6 +5,38 @@
 • I will try to fix it in next month's update or hotfix
 • Use Latest Gcam, if Older Versions are crashing
 • Use Minimal Gapps for Vanilla Builds like Nik Core
+• For Google Serach bar in vanilla use MindtheGapps
+
+# Credits
+• @wHo_EM_i for various changes in device tree
+
+# Device Changelog - 04/05/24 :
+• switch to userbuild | Tune Powerhint
+• nuke selinux ignore neverallows flag
+• Overlay: add FPS info tile
+• nuke SurfaceFlinger Cache for good
+• props: Prefer 'cache' backing storage
+• sepolicy: address various neverallows denials
+• Compile HWUI in Performance Mode
+• Clean-up and update various init scripts
+• Disable audio.feature.kpi_optimize.enable
+• Tune LMKD parameters for multitasking.
+• wifi: Disable RX wakelock feature
+• Reduce animation/transition scale
+• Optimize dex2oat for cortex-a73
+• Inherit more Android Go Configurations
+• enable level 1(core) Multi-Gen LRU
+• Sync boot image header with stock
+• Use libutils-v33 for pm-service
+• rootdir: Fix "/sys/ lines must have 5 or 6 entries"
+• parts: Convert to SwitchPreferenceCompat
+• Migrate to CompoundButton.OnCheckedChangeListener
+• gps: Don't include cutils/threads.h
+• Enable use_resource_processor for all sysui deps
+• Stop shipping 32bit zygote Again to save ram (bye bye 32bit apps)
+• Enable QC2 bufferqueue bqpool to reducing power consumption
+• Overlay: set config_use16blBitTaskSnapshotPixelFormat to true
+• update Sensors, Thermal, Charger, ESE, Alarm, Time services, IRQ, CNSS blobs from zebra/helios
 
 # Device Changelog - 21/03/24 :
 • Disable frame rate override feature
