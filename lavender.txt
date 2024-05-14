@@ -10,6 +10,41 @@
 # Credits
 • @wHo_EM_i for various changes in device tree
 
+# Device Changelog - 14/05/24 :
+• Add Moto dolby Atmos
+• Change ipa trigger level to early-boot
+• Copy Google media configs from frameworks/av
+• Build Codec2 Packages on vendor
+• Import android.hardware.media.c2 to FCM
+• device: Build missing C2 media codecs
+• Disable speaker protection feature in audio HAL
+• proprietary: update blobs from Zebra and Qcom
+• Tune LMKD parameters for multitasking.
+• Tune Powerhint | Clean up kernel cmdline
+• Force enable UFFD_GC
+• universal dex preopt optimization
+• Configure cpusets for dex2oat
+• Optimize ART | Update dexpreopt configuration
+• props: Re-configure sf phase offset
+• props: Force triple frame buffers
+• audio: Use QCOM implementation for audio effects
+• Use omx raw decoder on 24bit pcm playback
+• Update from LA.UM.12.2.1.r1-02400-sdm660.0
+• Offload 24 bits playback supports mp3/aac format
+• Add new flag name to compress offload case
+• Set valid and supported channel mask for earpiece
+• Compact cached app heaps in the background
+• Remove useless nqnfcinfo service
+• Add net_raw permissions for time_daemon service
+• Update IMS permissions in permissions-qti.xml for S
+• Remove BT related config
+• Restore default config_proximityCheckTimeout
+• AOSP WFD doesn't support protected Wi-Fi Display buffers
+• Remove obsolete rfs_access service
+• Correct rmt_storage Service Name
+• Change permissions for /dev/diag
+• Move init.recovery.qcom.rc out of root
+
 # Device Changelog - 04/05/24 :
 • switch to userbuild | Tune Powerhint
 • nuke selinux ignore neverallows flag
