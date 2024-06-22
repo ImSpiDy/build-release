@@ -1,5 +1,44 @@
 ########### Kernel Changelog ###########
 
+# S0NiX R1.1 | 23/06/2024
+• merge ASB-2024-06-05_4.19-stable in base
+• merge LA.UM.12.2.1.r1-03500-sdm660.0 in base
+• merge LA.UM.12.2.1.r1-03500-sdm660.0 in wlan driver
+• merge LA.UM.12.2.1.r1-03500-sdm660.0 in audio driver
+• Minimize wakeup time and Increase wakeup safety margin
+• Disable compaction of unevictable pages
+• Reduce freeze timeout to 1 second for Android
+• msm: ipa: Do not acquire wakelocks
+• Revert "msm: kgsl: Increase worker thread priority"
+• qcacld-3.0: Free a bunch of pkts at once
+• qcacld-3.0: Do not allow any wakelocks to be held
+• Don't print kernel virtual memory layout
+• Set perf event sampling CPU time to 15%
+• Don't allow STune to influence frequency selections
+• schedutil: Entirely cleanup CR 2040904 fixes | iowait_boost code
+• restrict iowait boost to tasks with prefer_idle
+• use actual cpu capacity to calculate boosted util
+• Reduce GC thread urgent sleep time to 50ms
+• Optimize page clearing by replacing memset with clear_page
+• implement custom uname override | spoof as stock kernel
+• Revert "arm64: Always use REFCOUNT_FULL"
+• Disable place-relative 32-bit relocations for DCE
+• Keep alternative-instruction sections
+• Allow LD_DEAD_CODE_DATA_ELIMINATION to be selected
+• mdss_mdp: Set autosuspend timeout to 64 ms
+• uid_sys_stats: Checkout to linux 5.4
+• Disable KGSL throttling and make it RO
+• Minimize number of tasks to load balance
+• Relax CPU latency requirements to save power
+• Remove 10 ms CPU idle latency unvote timeout
+• Don't allow userspace to impose restrictions on CPU idle levels
+• f2fs: reduce timeout for uncongestion
+• Raise the JBD2_DEFAULT_MAX_COMMIT_AGE to 120
+• Revert "include: uapi: Increase buffer size for UBWC"
+• Disable various debugs/loggings/warnings
+• kernelSU updated to v11873 [last official update for non-GKI]
+• use any KernelSU manager above v0.9.5
+
 # S0NiX R1 | 21/04/2024
 • Initial ACK + CLO kernel
 • Merge tag 'ASB-2024-04-05_4.19-stable' of ACK
@@ -34,5 +73,6 @@
 # Credits
 • Thanks @Not_ayan99 for sexxxyyy banner
 • Thanks @wHo_EM_i for helping in optimizing kernel and helping as always
-• Thanks @Shagggyyy @LeTsBaKeCaKe @im_the_strongest @bad_rulez @SNC2017v Sanju @LucasIron @Hackintosh98 @Enri7q @susahcariusername Mario for Testing Kernel
+• Thanks @Shagggyyy @LeTsBaKeCaKe @im_the_strongest @bad_rulez @SNC2017v Sanju 
+@LucasIron @Hackintosh98 @Enri7q @susahcariusername Mario @cukimayx1 for Testing Kernel
 • Thanks LineageOS for base tree - LineageOS/android_kernel_qcom_sdm660
