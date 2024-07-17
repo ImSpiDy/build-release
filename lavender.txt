@@ -10,6 +10,24 @@
 # Credits
 • @wHo_EM_i for various changes in device tree
 
+# Device Changelog - 17/07/24 :
+• Inline Sonix Kernel r1.2 Beta
+• configs: Import thermal engine conf
+• Enable QCRIL radio power saving
+• powerhint: add back GPU MaxFreq
+• Move to new RFS install_symlink targets
+• Build vendor variant of libpower
+• Mark CNE symlink target as required package
+• sepolicy: fix powerhal denials
+• Switch to AIDL Light HAL | Uprev to V2
+• Remove duplicated ADSP modules
+• Build missing libraries for 14 QPR3
+• Add some device specific FCM
+• Inherit FCM from QTI
+• Disable the usage of ConfigStore
+• Set manifest target-level to 5
+• configs: Drop SnapCam Support
+
 # Device Changelog - 04/06/24 :
 • Enable ro.hwui.render_ahead
 • Add spoofing netflix prop
