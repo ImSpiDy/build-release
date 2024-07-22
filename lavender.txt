@@ -10,6 +10,11 @@
 # Credits
 • @wHo_EM_i for various changes in device tree
 
+# Device Changelog - 22/07/24 :
+• Switch to OSS Camera [Gcam's HDR broken on 4.19]
+• Update GPU blobs from Zebra [K4.19]
+• Inline Sonix R1.2 Beta [K4.19] | 10.2 Beta [4.4]
+
 # Device Changelog - 17/07/24 :
 • Inline Sonix Kernel r1.2 Beta
 • configs: Import thermal engine conf
