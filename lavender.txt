@@ -10,6 +10,10 @@
 # Credits
 • @wHo_EM_i for various changes in device tree
 
+# Bugs in K4.4:
+• hotspot is broken
+• fpc fingerprint sensor is broken
+
 # Device Changelog - 22/07/24 :
 • Switch to OSS Camera [Gcam's HDR broken on 4.19]
 • Update GPU blobs from Zebra [K4.19]
