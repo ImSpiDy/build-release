@@ -8,11 +8,21 @@
 • For Google Search bar in vanilla use MindtheGapps
 
 # Credits
-• @wHo_EM_i for various changes in device tree
+• @wHo_EM_i for maintaining device trees
 
-# Bugs in K4.4:
-• hotspot is broken
-• fpc fingerprint sensor is broken
+# Device Changelog - 04/08/24 :
+• sepolicy Label nodes and update blobs [4.4]
+• props: Default HWUI renderer to SkiaGL
+• Enable Codec2 and Remove software omx codec references
+• sepolicy: address various denials
+• Restore debug.sf.disable_backpressure
+• Explicitly disable "Enable GL comp backpressure"
+• overlay: Enable battery cycle count
+• Enable all available vibration intensity levels
+• fall back to older gpu blobs [Camera will work fine]
+• Fixed Hotspot and Fpc fingerprint sensor [4.4]
+• Added KernelSU by Default in both Kernel
+• Inline Sonix R1.1.3 Beta [K4.19] | 10.2 Beta [4.4] 
 
 # Device Changelog - 22/07/24 :
 • Switch to OSS Camera [Gcam's HDR broken on 4.19]
