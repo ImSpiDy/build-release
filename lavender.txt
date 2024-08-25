@@ -10,6 +10,13 @@
 # Credits
 • @wHo_EM_i for maintaining device trees
 
+# Device Changelog - 25/08/24 :
+• Update AIDL Light HAL
+• Drop qcom wfd remenents
+• Disable QTI perf lock usage in camera HAL
+• Revert "Disable phantom process killing"
+• Inline Sonix R1.1.3 Beta [K4.19]
+
 # Device Changelog - 04/08/24 :
 • sepolicy Label nodes and update blobs [4.4]
 • props: Default HWUI renderer to SkiaGL
