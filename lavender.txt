@@ -1,14 +1,21 @@
 ########### Device Changelog ###########
 
-# ⚠ Note ⚠
+# ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ ⚠  Note ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ 
 • If you have any issue please tag me in my group
 • I will try to fix it in next month's update or hotfix
 • Use Latest Gcam, if Older Versions are crashing
 • Use Minimal Gapps for Vanilla Builds like Nik Core
 • For Google Search bar in vanilla use MindtheGapps
+• if facing lag after first boot Reboot device once
+• Use Rom atleast for 3-4 hrs before giving any feedback
+# ⚠    ⚠    ⚠    ⚠    ⚠    ⚠    ⚠    ⚠
 
 # Credits
 • @wHo_EM_i for maintaining device trees
+
+# Device Changelog - 30/08/24 :
+• use LZ4 ramdisk
+• use half bootanimation res
 
 # Device Changelog - 25/08/24 :
 • Update AIDL Light HAL
