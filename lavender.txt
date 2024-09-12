@@ -13,6 +13,27 @@
 # Credits
 • @wHo_EM_i for maintaining device trees
 
+# Device Changelog - 13/09/24 :
+• props: silence qti.vibrator spams
+• Enable the backward-compatible memory reduction option
+• Disable post rendering clean up
+• sepolicy: Address various denial
+• overlay: Re-enable wallpaper zooming effect
+• props: retune sf phase offsets
+• props: Add more AndroidGo goodies
+• Stop shipphing full recovery image
+• Migrate to QTI USB Gadget 1.2 HIDL
+• configs: Enable slow-cpu media_codecs
+• Remove media_codecs_google_c2*
+• overlay: add DeviceAsWebcam overlay
+• media: Add and publish Codec2 HAL service
+• Disable debug.sf.recomputecrop
+• Register and enable qcrild & data services on boot
+• Pin msm_irqbalance to system-background
+• reconfigure dex pre-optmization
+• raise zRAM size to 75% of RAM size
+• Remove IO read_ahead_kb & QTI logkit dir
+
 # Device Changelog - 30/08/24 :
 • use LZ4 ramdisk
 • use half bootanimation res
