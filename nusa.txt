@@ -6,7 +6,28 @@
 • Dont Expect way too much from this rom
 • If you face any issue please report in group
 • I might give one more update with bug fixes
-• Happy Flashing and R.I.P Android 10
+• Happy Flashing
+
+### Changelogs - 13/09/24
+Source:
+• August Security Patch from Los Gerrit
+• fw/native: Enable ThinLTO and -O3
+• Redesign Settings Page from XdroidUI
+• Add brightness, qsshape, panelbg style
+• lockscreen clock: add iOS font
+• Statusbar Clock background chip
+
+Device:
+• Add support to update fingerprint if fails
+• Update blobs from Xiaomi | CAF
+• Switch to qti vibrator HAL [Only use QTI Oldcam Kernel]
+• Disable Various unwanted GMS components
+• universal dex preopt optimization
+• XiaomiParts: Drop SELinux toggle
+• other Optimization and cleanup
+• Update kernel to S0NiX X10.2.1 Beta
+• Enable Kernel SU by Default
+• Spoof Selinux status to Enforcing For GMS
 
 ### Changelogs - 13/02/24
 Source:
