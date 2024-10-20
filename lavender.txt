@@ -1,6 +1,6 @@
 ########### Device Changelog ###########
 
-# ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ ⚠  Note ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ 
+# Note
 • If you have any issue please tag me in my group
 • I will try to fix it in next month's update or hotfix
 • Use Latest Gcam, if Older Versions are crashing
@@ -8,10 +8,18 @@
 • For Google Search bar in vanilla use MindtheGapps
 • if facing lag after first boot Reboot device once
 • Use Rom atleast for 3-4 hrs before giving any feedback
-# ⚠    ⚠    ⚠    ⚠    ⚠    ⚠    ⚠    ⚠
 
 # Credits
 • @wHo_EM_i for maintaining device trees
+
+# Device Changelog - 20/10/24 :
+• config: sync powerhint with kernel
+• props: retune dexopt optimization
+• Update Graphics/Postprocessing blobs from DDV_sprout
+• Drop android.hardware.tetheroffload.config
+• Restore to default animation/transition scale
+• Explicitly disable protected management frames
+• Inline Sonix Kernel 1.1.5 Beta based on scarlet kernel (thanks tushar)
 
 # Device Changelog - 13/09/24 :
 • props: silence qti.vibrator spams
