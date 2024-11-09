@@ -12,6 +12,18 @@
 # Credits
 • @wHo_EM_i for maintaining device trees
 
+# Device Changelog - 10/11/24 :
+• Move to common Xiaomi fingerprint HIDL
+• build com.fingerprints.extension@2.0.so
+• set app memory policy to low ram mode
+• switch to speed-profile dex preopt
+• Switch to QTI Memtrack AIDL HAL
+• Label goodix fingerprint interfaces
+• fingerprint: fix broken fp devices
+• Revert "lavender: Stop shipping 32-bit Zygote"
+• Adjust override prop key names
+• Inline Sonix Kernel 1.1.5 Beta based on scarlet kernel (thanks tushar)
+
 # Device Changelog - 20/10/24 :
 • config: sync powerhint with kernel
 • props: retune dexopt optimization
