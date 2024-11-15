@@ -12,6 +12,15 @@
 # Credits
 • @wHo_EM_i for maintaining device trees
 
+# Device Changelog - 15/11/24 :
+• Switch to AIDL USB hals
+• Silence FP crash on devices with damaged sensor
+• Drop unused qdutils vintf fragments 
+• set layer_caching_active_layer_timeout_ms to 1000
+• prop: Enable unspecialized app process pool
+• overlay: Make the UI smoother
+• prop: Configure multi-file cache
+
 # Device Changelog - 10/11/24 :
 • Move to common Xiaomi fingerprint HIDL
 • build com.fingerprints.extension@2.0.so
