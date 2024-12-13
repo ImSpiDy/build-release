@@ -11,6 +11,18 @@
 
 # Credits
 • @wHo_EM_i for maintaining device trees
+• Tushar for kernel source [Scarlet kernel]
+
+# Device Changelog - 10/12/24 :
+• Explicitly set as an non-AB target
+• Drop HotwordEnrollment blobs
+• Silence some spammy logging
+• overlay: Forcefully disable Smart 5G
+• Add fast input profile for the record concurrency
+• Enable GAME power mode in power HAL
+• Add hotword input for hotword mic concurrency
+• Disable memory tag for various processes
+• Never allow apps to access /dev/ashmem
 
 # Device Changelog - 15/11/24 :
 • Switch to AIDL USB hals
