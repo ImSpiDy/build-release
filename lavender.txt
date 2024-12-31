@@ -13,6 +13,10 @@
 • @wHo_EM_i for maintaining device trees
 • Tushar for kernel source [Scarlet kernel]
 
+# Device Changelog - 31/12/24 :
+• Switch to 24 bit audio
+• Switch to KernelSU Next with susfs
+
 # Device Changelog - 10/12/24 :
 • Explicitly set as an non-AB target
 • Drop HotwordEnrollment blobs
