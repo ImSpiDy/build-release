@@ -13,6 +13,10 @@
 • @wHo_EM_i for maintaining device trees
 • Tushar for kernel source [Scarlet kernel]
 
+# Device Changelog - 05/01/24 :
+• Switch to EroFs For Gapps
+• Add fix in kernel for touch dead issue [might still not work for some users]
+
 # Device Changelog - 31/12/24 :
 • Switch to 24 bit audio
 • Switch to KernelSU Next with susfs
