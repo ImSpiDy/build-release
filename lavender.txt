@@ -13,7 +13,18 @@
 • @wHo_EM_i for maintaining device trees
 • Tushar for kernel source [Scarlet kernel]
 
-# Device Changelog - 05/01/24 :
+# Device Changelog - 19/02/25 :
+• Switch to common lights HAL
+• Disable avoid_gfx_accel prop
+• Drop unused Media blobs
+• Drop Deprecated configs
+• configs: Trim QTI whitelists
+• Enable the SVA in UI area
+• Use AOSP default Codec2/OMX ranks
+• Drop explicit 'sdk_version' declaration
+• Remove suffix in vulkan-related permissions
+
+# Device Changelog - 05/01/25 :
 • Switch to EroFs For Gapps
 • Add fix in kernel for touch dead issue [might still not work for some users]
 
