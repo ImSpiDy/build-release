@@ -13,6 +13,12 @@
 • @wHo_EM_i for maintaining device trees
 • Tushar for kernel source [Scarlet kernel]
 
+# Device Changelog - 24/02/25 :
+• props: fix-up threaded renderengine
+• Spoof encrytion prop as encrypted
+• Move to Xiaomi fingerprint AIDL
+• Set fingerprint sensor type
+
 # Device Changelog - 19/02/25 :
 • Switch to common lights HAL
 • Disable avoid_gfx_accel prop
