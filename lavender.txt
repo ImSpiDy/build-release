@@ -8,6 +8,7 @@
 • For Google Search bar in vanilla use MindtheGapps
 • if facing lag after first boot Reboot device once
 • Use Rom atleast for 3-4 hrs before giving any feedback
+• Don't change bootanimation to cyberpunk in any ROM
 
 # Credits
 • @wHo_EM_i for maintaining device trees
