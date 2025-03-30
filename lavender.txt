@@ -14,6 +14,24 @@
 • @wHo_EM_i for maintaining device trees
 • Tushar for kernel source [Scarlet kernel]
 
+# Device Changelog - 30/03/25 :
+• wifi: Disable FW TWT
+* Fix HEVC HW decoding
+• Fix the battery drain due to statsd.
+• configuration for spatial audio
+• powerhint adapt for new frequency
+• Remove duplicate ADSP modules
+• Drop unused libmm-omxcore
+• properties: Remove software OMX blobs
+• Remove rules moved to qcom sepolicy
+• Define backup NTP server property
+• update Audio, ANT, Listen, blobs from LA.QSSI.15.0.r1
+• update Media blobs from LA.QSSI.15.0.r1-14000-qssi.0
+• update Postprocessing blobs from LA.QSSI.15.0.r1-12900-qssi.0
+• Update other blobs from helios 14 (14-23-05.00-UG-U05-STD-HEL-04-5)
+• Update GPS hals/blobs from LA.UM.9.15.2.r1-10100-KAMORTA.QSSI14.0
+• update GPS configs from CLO | Xiaomi
+
 # Device Changelog - 24/02/25 :
 • props: fix-up threaded renderengine
 • Spoof encrytion prop as encrypted
