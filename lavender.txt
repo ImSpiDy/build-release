@@ -14,6 +14,27 @@
 • @wHo_EM_i for maintaining device trees
 • Tushar for kernel source [Scarlet kernel]
 
+# Device Changelog - 22/04/25 :
+• Switch to Official KernelSU
+• Update SusFS to latest version
+• Fixed Wi-Fi WPA3 not connecting
+• Enable ELF Checks & fix its failures
+• properties: Disable FRP
+• RRO: move Wi-Fi Overlays to vendor
+• gps: Localise NTP to improve GPS TTFF
+• gps: update configs from CLO & MIUI
+• gps: Disable xtwifi location services
+• gps: Re-Implement xtra-daemon control via property
+• gps: Enable persist.sys.xtra-daemon.enabled by Default
+• Switch to OSS Dolby Atoms (Aospa)
+• update Dolby blobs from Motorola
+• update GPS blobs from helios 14
+• Update RIL blobs from LA.QSSI.15.0.r1-14000-qssi.0
+• update various blobs from LA.QSSI.15.0.r1-14500-qssi.0
+• Drop unused A/V enhancements & camera blobs
+• Fixed Unresolved symbols in camera blobs
+• Add various missing blobs from Helios 14 & CLO 15
+
 # Device Changelog - 30/03/25 :
 • wifi: Disable FW TWT
 * Fix HEVC HW decoding
