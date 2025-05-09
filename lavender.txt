@@ -14,6 +14,19 @@
 • @wHo_EM_i for maintaining device trees
 • Tushar for kernel source [Scarlet kernel]
 
+# Device Changelog - 10/05/25 :
+• Implement torch light control
+• Allow cameraserver to search directories in sysfs_leds
+• camera: set saner values for torch
+• Drop Duplicate Neverallow app open access
+• Build AOSP Radio AIDL Wrapper
+• Convert WiFi firmware symlinks to install_symlink targets
+• Declare IMS & EGL libs as symlinks during extraction
+• Migrate mount point creation out of Android.mk
+• build Xiaomi telephony Stub
+• Don't override GPU props from init
+• Set rlimit memlock from Source
+
 # Device Changelog - 22/04/25 :
 • Switch to Official KernelSU
 • Update SusFS to latest version
