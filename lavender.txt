@@ -14,6 +14,13 @@
 • @wHo_EM_i for maintaining device trees
 • Tushar for kernel source [Scarlet kernel]
 
+# Device Changelog - 17/05/25 :
+• Set vendor init lib via soong config
+• Migrate Lineage Health to soong_config_set
+• gps: Avoid access of deprecated LocUnorderedSetMap entry
+• Drop TARGET_RECOVERY_DEVICE_MODULES
+• Drop Duplicate BOARD_AVB_ENABLE flag
+
 # Device Changelog - 10/05/25 :
 • Implement torch light control
 • Allow cameraserver to search directories in sysfs_leds
