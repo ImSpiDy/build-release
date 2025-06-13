@@ -14,6 +14,13 @@
 • @wHo_EM_i for maintaining device trees
 • Tushar for kernel source [Scarlet kernel]
 
+# Device Changelog - 13/06/25 :
+• props: Improve surface flinger 
+• props: cleanup spammy logs services
+• Revert "sepolicy: Address init denial"
+• Remove IR rules moved to lineage sepolicy
+• Drop unused lineage dependencies
+
 # Device Changelog - 17/05/25 :
 • Set vendor init lib via soong config
 • Migrate Lineage Health to soong_config_set
