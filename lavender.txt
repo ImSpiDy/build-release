@@ -1,0 +1,8 @@
+########### Device Changelog ###########
+
+# Credits
+• wHo_EM_i for device trees
+• Tushar for Scarlet kernel source
+
+# Device Changelog - 21/06/25 :
+• Inital android 16 release
