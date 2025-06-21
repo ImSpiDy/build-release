@@ -1,0 +1,12 @@
+########### Important Notes ###########
+
+# FAQ
+• Recommended Gapps? use any minimal gapps like Nik core.
+• Gcam crashing? use latest version according to android version.
+• Homescreen Search bar missing? use mindtheapps or flash google velvet addons.
+• Device lagging after first boot? Reboot once & give it some time to settle.
+
+# Notes
+• Use ROM atleast for 2-3 hours before giving any feedback.
+• Please Don't use Cyberpunk bootanimation as it causes bootloop.
+• If you are facing any issue, Please report in support group with proper logs.
